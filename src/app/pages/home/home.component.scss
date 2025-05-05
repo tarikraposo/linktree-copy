@@ -11,6 +11,7 @@
     flex-direction: column;
     margin: 0 auto;
     max-width: 600px;
+    min-width: 260px;
     text-align: center;
     gap: 16px;
     padding: 64px 16px 32px;
@@ -19,6 +20,10 @@
     width: 100px;
     height: 100px;
     border-radius: 100%;
+  }
+  h1 {
+    font-size: 20px;
+    font-weight: 700;
   }
 
 }
